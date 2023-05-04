@@ -1,4 +1,4 @@
-# flutter_project_2
+# Xerax App
 
 A new Flutter project.
 
